@@ -12,7 +12,7 @@ class CategorisListView extends StatelessWidget {
       imagePath: 'assets/business.avif',
     ),
     CategoryModel(
-      categoryName: 'Entertaiment',
+      categoryName: 'Entertainment',
       imagePath: 'assets/entertaiment.avif',
     ),
     CategoryModel(
